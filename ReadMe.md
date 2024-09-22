@@ -1,5 +1,5 @@
-# 💫 About Me:
-⚡Especialista em suporte de TI na Exército Brasileiro<br>🪖 Um quase Ex Militar<br>🐍 Aprendendo Python <br><br>
+# 🎖️ Sobre mim : 
+⚡Especialista em suporte de TI no Exército Brasileiro<br>🪖 Um quase Ex Militar<br>🐍 Aprendendo Python <br><br>
 
 
 ## 🌐 Socials:
