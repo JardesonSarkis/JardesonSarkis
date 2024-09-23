@@ -1,5 +1,5 @@
-# 💡 Sobre mim : 
-⚡Especialista em suporte de TI no Exército Brasileiro<br>🪖 Um quase Ex Militar<br>🐍 Aprendendo Python<br>🌐CISCO CyberOsp Associate <br>🌐CISCO Endpoint Security
+# 💡 About me: 
+⚡IT Support Specialist in the Brazilian Army<br>🔓Information Security<br>🪖 Almost Ex-Military<br>🐍 Learning Python<br>🌐CISCO CyberOsp Associate <br>🌐CISCO Endpoint Security<br>
 
 
 ## 🌐 Socials:
