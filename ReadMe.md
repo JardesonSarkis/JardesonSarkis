@@ -1,5 +1,5 @@
 # 💡 About me: 
-⚡IT Support Specialist in the Brazilian Army<br>🔓Information Security<br>🪖 Almost Ex-Military<br>🐍 Learning Python<br><br>🐘 Learning PHP<br>🌐CISCO CyberOsp Associate <br>🌐CISCO Endpoint Security<br>
+⚡IT Support Specialist in the Brazilian Army<br>🔓Information Security<br>🪖 Almost Ex-Military<br>🐍 Learning Python<br>🐘 Learning PHP<br>🌐CISCO CyberOsp Associate <br>🌐CISCO Endpoint Security<br>
 
 
 ## 🌐 Socials:
